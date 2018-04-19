@@ -1,0 +1,3 @@
+C:\Users\Harun\Desktop\Bridge_DP_Odev\Bridge_DP\bin\Debug\Bridge_DP_Odev.exe.config
+C:\Users\Harun\Desktop\Bridge_DP_Odev\Bridge_DP\obj\Debug\Bridge_DP_Odev.exe
+C:\Users\Harun\Desktop\Bridge_DP_Odev\Bridge_DP\obj\Debug\Bridge_DP_Odev.pdb
