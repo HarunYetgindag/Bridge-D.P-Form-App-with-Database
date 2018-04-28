@@ -102,7 +102,7 @@ namespace Bridge_DP_Odev
 
         private List<Student> _students;
 
-        private int _curent = 0;
+        private static int _curent = 0;
 
         public StudentDataManagement()
         {
